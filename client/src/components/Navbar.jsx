@@ -111,7 +111,7 @@ const Navbar = () => {
               href="https://github.com/BamaCharanChhandogi/Diabetes-Prediction"
               target="_blank"
               rel="noopener noreferrer"
-              className="flex items-center text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
+              className="items-center text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
               onClick={closeMenu}
             >
               <CiStar className="w-5 h-5 text-yellow-500 font-bold mr-2" />

@@ -78,7 +78,7 @@ function DataInfo() {
                     <th
                       key={index}
                       onClick={() => handleSort(header)}
-                      className="px-4 py-2 bg-purple-100 text-purple-800 sticky top-0 font-bold border cursor-pointer relative"
+                      className="px-4 py-2 bg-purple-100 text-purple-800 top-0 font-bold border cursor-pointer relative"
                     >
                       {header}
                       <span className="absolute right-0 top-1/2 transform -translate-y-1/2">
